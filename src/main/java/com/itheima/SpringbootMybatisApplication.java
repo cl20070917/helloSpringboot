@@ -8,6 +8,6 @@ public class SpringbootMybatisApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootMybatisApplication.class, args);
-		System.out.printf("haha");
+		System.out.printf("haha2019");
 	}
 }
